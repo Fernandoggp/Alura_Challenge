@@ -1,0 +1,65 @@
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.csproj.AssemblyReference.cache
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.AssemblyInfoInputs.cache
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.AssemblyInfo.cs
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.csproj.CoreCompileInputs.cache
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\appsettings.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\AluraChallenge - 1.exe
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\AluraChallenge - 1.deps.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\AluraChallenge - 1.runtimeconfig.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\AluraChallenge - 1.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\AluraChallenge - 1.pdb
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets\msbuild.AluraChallenge - 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets\msbuild.build.AluraChallenge - 1.props
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AluraChallenge - 1.props
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AluraChallenge - 1.props
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\scopedcss\bundle\AluraChallenge - 1.styles.css
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.csproj.CopyComplete
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\refint\AluraChallenge - 1.dll
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.pdb
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\AluraChallenge - 1.genruntimeconfig.cache
+C:\Users\Naja Info\source\repos\AluraChallenge - 1\AluraChallenge - 1\obj\Debug\net6.0\ref\AluraChallenge - 1.dll
